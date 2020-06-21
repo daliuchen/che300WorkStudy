@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f9553dd-dd53-4fbf-aedb-0630ef8e5e63" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d13f316e-5a33-49ca-beda-2a7f087ec55b.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d13f316e-5a33-49ca-beda-2a7f087ec55b/storage_v2/_src_/schema/bishe.CXeWBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d13f316e-5a33-49ca-beda-2a7f087ec55b/storage_v2/_src_/schema/bishe.CXeWBQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d13f316e-5a33-49ca-beda-2a7f087ec55b/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activiti/target/classes/activiti.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activiti/target/classes/bpmn/hoilday.bpmn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activiti/target/classes/bpmn/hoilday.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activiti/target/classes/com/liuchen/navite/MainTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/activiti/target/classes/log4j.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="BpmnFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="1178503733@qq.com" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.2/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dPIjGkt6pF6b3Obg1J64Dw8f3L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/activiti/src/main/resources/bpmn" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/activiti/src/main/resources/bpmn" />
+      <recent name="$PROJECT_DIR$/activiti/src/main/resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/activiti/src/main/resources/bpmn" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liuchen.navite.MainTest1" />
+      <module name="activiti" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liuchen.navite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTest1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@71973eda" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f9553dd-dd53-4fbf-aedb-0630ef8e5e63" name="Default Changelist" comment="" />
+      <created>1592320434076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592320434076</updated>
+      <workItem from="1592320435964" duration="9813000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1592746885086</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592746885086</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="117" key="#Project_Structure" timestamp="1592320595857">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="117" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1592320595857" />
+    <state x="320" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592324575158">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1592324575158" />
+    <state x="316" y="50" key="CommitChangelistDialog2" timestamp="1592747079074">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="316" y="50" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1592747079074" />
+    <state width="1398" height="728" key="GridCell.Tab.0.bottom" timestamp="1592410035346">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="728" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592410035346" />
+    <state width="1398" height="728" key="GridCell.Tab.0.center" timestamp="1592410035344">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="728" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592410035344" />
+    <state width="1398" height="728" key="GridCell.Tab.0.left" timestamp="1592410035343">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="728" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592410035343" />
+    <state width="1398" height="728" key="GridCell.Tab.0.right" timestamp="1592410035345">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="728" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592410035345" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1592407662416">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592407662416" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1592407662413">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1592407662413" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1592407662412">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1592407662412" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1592407662414">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1592407662414" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1592407056971">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1592407056971" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1592746998947">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1592746998947" />
+    <state x="611" y="393" key="com.timout.bpmn.property.inspector.editor.string.StringEditorDialog" timestamp="1592320756677">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="611" y="393" key="com.timout.bpmn.property.inspector.editor.string.StringEditorDialog/0.0.1440.900@0.0.1440.900" timestamp="1592320756677" />
+    <state x="407" y="250" key="git4idea.merge.GitPullDialog" timestamp="1592747058785">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="407" y="250" key="git4idea.merge.GitPullDialog/0.0.1440.900@0.0.1440.900" timestamp="1592747058785" />
+    <state x="149" y="150" key="new project wizard" timestamp="1592320584777">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="149" y="150" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1592320584777" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1592323251891">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1592323251891" />
+  </component>
+</project>
